@@ -203,7 +203,7 @@ const evenOddNumericValues = (arr) => {
 };
 
 /* ------------------------------------------------------------------------------------------------
-TESTS
+TESTS:
 
 All the code below will verify that your functions are working to solve the challenges.
 
