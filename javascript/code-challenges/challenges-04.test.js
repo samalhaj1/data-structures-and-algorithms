@@ -250,7 +250,7 @@ You DO NOT need to use your solution to Challenge 9 in completing Challenge 10.
 ------------------------------------------------------------------------------------------------ */
 
 const sortSchedule = (arr) => {
-  // Solution code here...
+  // Solution code here......
 };
 
 /* ------------------------------------------------------------------------------------------------
